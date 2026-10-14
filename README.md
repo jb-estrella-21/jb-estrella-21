@@ -6,7 +6,7 @@
 
 *Building practical solutions, exploring new technologies, and continuously improving one commit at a time.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=jb-estrella-21&label=Profile%20Views&color=bd93f9&style=flat-square)
+// ![Profile Views](https://komarev.com/ghpvc/?username=jb-estrella-21&label=Profile%20Views&color=bd93f9&style=flat-square)
 
 </div>
 
